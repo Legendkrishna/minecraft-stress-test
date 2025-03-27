@@ -50,11 +50,11 @@ public class MinecraftStressTest {
         System.out.println("Minecraft Stress Test");
         System.out.println("Usage: java [options] -jar minecraft-stress-test.jar");
         System.out.println("\nOptions:");
-        System.out.println("  -Dbot.ip=<ip>                 Set the server IP (default: 127.0.0.1)");
-        System.out.println("  -Dbot.port=<port>             Set the server port (default: 25565)");
-        System.out.println("  -Dbot.count=<count>           Set the number of bots (default: 1)");
-        System.out.println("  -Dbot.login.delay.ms=<delay>  Set the delay between bot logins in ms (default: 100)");
-        System.out.println("  -Dbot.name=<name>             Set the base name for bots (default: Bot)");
+        System.out.println("  -Dbot.ip=<ambrat12.aternos.me>                 Set the server IP (default: 127.0.0.1)");
+        System.out.println("  -Dbot.port=<38469>             Set the server port (default: 25565)");
+        System.out.println("  -Dbot.count=<50>           Set the number of bots (default: 1)");
+        System.out.println("  -Dbot.login.delay.ms=<100>  Set the delay between bot logins in ms (default: 100)");
+        System.out.println("  -Dbot.name=<herobrine pi>             Set the base name for bots (default: Bot)");
         System.out.println("  -Dbot.x=<x>                   Set the center X coordinate (default: 0)");
         System.out.println("  -Dbot.z=<z>                   Set the center Z coordinate (default: 0)");
         System.out.println("  -Dbot.logs=<true|false>       Enable or disable bot logs (default: true)");
